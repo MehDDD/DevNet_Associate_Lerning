@@ -11,8 +11,4 @@ myObj =  {"Student" : [
    }  
 ]
 }   
-
-
-
-
 console.log(myObj.Student[1].name);
