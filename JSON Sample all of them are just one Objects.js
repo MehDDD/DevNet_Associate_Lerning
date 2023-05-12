@@ -8,7 +8,17 @@ myObj =  {"Student" : [
       "id":"02", 
       "name": "Nick", 
       "lastname": "Thameson" 
-   }  
+   }, 
+   { 
+      "id":"03", 
+      "name": "Medi", 
+      "lastname": "Amiri" 
+   }, 
+   { 
+      "id":"04", 
+      "name": "Sadaf", 
+      "lastname": "Amiri" 
+   }    
 ]
 }   
 console.log(myObj.Student[1].name);
