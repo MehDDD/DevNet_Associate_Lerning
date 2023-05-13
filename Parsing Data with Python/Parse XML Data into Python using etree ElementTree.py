@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 
 #Get the XML file data
-stream = open('XML Example 2.xml' , 'r')
+stream = open(r'C:\Users\Mahdi\Desktop\DevNet Associate\DevNet_Associate_Lerning\XML_JSON_YAML_Data Formats\XML Example 2.xml')
 
 #Parse the data into an ElementTree object
 xml = ET.parse(stream)
