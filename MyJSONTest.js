@@ -1,6 +1,6 @@
 Obj = {"student" : [
     {
-        "ID" : "1",
+        "ID" :1 ,
         "FirstName" : "Medi",
         "LastName" : "Amiri",
         "Birthdate" : "04.04.1369"
