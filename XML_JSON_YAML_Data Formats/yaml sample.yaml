@@ -1,0 +1,15 @@
+---
+people:
+-   Id: 1
+    FN: Medi
+    LA: Amiri
+    Email: email@outlook.com
+-   Id: 2
+    FN: Medi2
+    LA: Amiri2
+    Email: email2@outlook.com
+-   Id: 3
+    FN: Medi3
+    LA: Amiri3
+    Email: email3@outlook.com
+...
