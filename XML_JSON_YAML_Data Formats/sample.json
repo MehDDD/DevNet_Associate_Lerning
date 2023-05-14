@@ -1,0 +1,14 @@
+{
+    "people": [
+        {
+            "Id" : "1",
+            "FN" : "Medi",
+            "LN" : "Amiri"
+        },
+        {
+            "Id" : "2",
+            "FN" : "Sadaf",
+            "LN" : "Amiri"
+        }
+    ]
+}
